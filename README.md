@@ -1,7 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Ben Saber Ahmed</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-bs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -11,7 +10,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ahmed-bs" alt="Trophy" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="mailto:bensaber.ahmed99@gmail.com"><strong>📫 Reach me via Email</strong></a>
@@ -41,6 +39,8 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40" /></a>
 </p>
 
 <h3 align="center">GitHub Stats:</h3>

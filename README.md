@@ -12,11 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
-  </a>
-</p>
 
 <p align="center">
   <a href="mailto:bensaber.ahmed99@gmail.com"><strong>📫 Reach me via Email</strong></a>
